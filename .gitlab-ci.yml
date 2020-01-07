@@ -1,0 +1,11 @@
+pages:
+  image: node:12
+  script:
+  - npm install
+  - node_modules/.bin/preact build --no-prerender
+  - mv build public
+  artifacts:
+    paths:
+    - public
+  only:
+  - master
