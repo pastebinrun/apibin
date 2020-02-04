@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "history": "4.10.1",
-    "preact": "10.2.1",
+    "preact": "10.3.0",
     "preact-render-to-string": "5.1.4",
     "preact-router": "3.2.1"
   },
