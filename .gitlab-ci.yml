@@ -1,7 +1,12 @@
 default:
   image: node:12
-  before_script:
-  - npm install
+
+build:
+  stage: build
+  script: npm install
+  artifacts:
+    paths:
+      - node_modules
 
 test:
   script: npm test
