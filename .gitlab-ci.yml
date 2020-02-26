@@ -1,7 +1,14 @@
-pages:
+default:
   image: node:12
-  script:
+  before_script:
   - npm install
+
+test:
+  script: npm test
+
+pages:
+  stage: deploy
+  script:
   - node_modules/.bin/preact build --no-prerender
   - mv build public
   artifacts:
