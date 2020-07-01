@@ -33,7 +33,7 @@
     "serve": "11.3.0"
   },
   "dependencies": {
-    "history": "4.10.1",
+    "history": "5.0.0",
     "preact": "10.3.3",
     "preact-render-to-string": "5.1.4",
     "preact-router": "3.2.1"
