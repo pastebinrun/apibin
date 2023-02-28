@@ -1,0 +1,1 @@
+{"version":3,"file":"route-about.chunk.40914.css","mappings":"AAAA,cACI,aAAc,CACd,eACJ","sources":["webpack:///./routes/about/style.module.css"],"sourcesContent":[".about {\n    margin: 0 auto;\n    max-width: 600px;\n}\n"],"names":[],"sourceRoot":""}

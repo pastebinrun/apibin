@@ -1,0 +1,1 @@
+{"version":3,"file":"route-paste.chunk.4cd8d.css","mappings":"AAAA,YACI,kBAAmB,CAEnB,aAAc,CADd,YAEJ","sources":["webpack:///./routes/paste/style.module.css"],"sourcesContent":[".pre {\n    background: #f5f2f0;\n    padding: 16px;\n    overflow: auto;\n}\n"],"names":[],"sourceRoot":""}

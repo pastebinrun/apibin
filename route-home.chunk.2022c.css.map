@@ -1,0 +1,1 @@
+{"version":3,"file":"route-home.chunk.2022c.css","mappings":"AAAA,eACI,WACJ,CAEA,aAEI,YAAa,CADb,UAEJ","sources":["webpack:///./routes/home/style.module.css"],"sourcesContent":[".submit {\n    float: right;\n}\n\n.full {\n    width: 100%;\n    height: 400px;\n}\n"],"names":[],"sourceRoot":""}
