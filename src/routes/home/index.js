@@ -1,6 +1,6 @@
 import { h, Component } from 'preact';
 import { route } from 'preact-router';
-import style from './style';
+import style from './style.module.css';
 import baseUrl from '../../base-url';
 
 class Home extends Component {

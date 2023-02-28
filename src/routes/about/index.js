@@ -1,5 +1,5 @@
 import { h } from 'preact';
-import style from './style';
+import style from './style.module.css';
 
 const About = () => (<div class={style.about}>
 	<p>

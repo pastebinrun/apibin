@@ -1,5 +1,5 @@
 import { h, Component } from 'preact';
-import style from './style';
+import style from './style.module.css';
 import baseUrl from '../../base-url';
 
 export default class Paste extends Component {
