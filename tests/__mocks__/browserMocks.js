@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2017 Preact CLI Templates
+//
+// SPDX-License-Identifier: MIT
+
 // Mock Browser API's which are not supported by JSDOM, e.g. ServiceWorker, LocalStorage
 /**
  * An example how to mock localStorage is given below 👇

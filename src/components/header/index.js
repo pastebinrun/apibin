@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2023 Konrad Borowski <konrad@borowski.pw>
+//
+// SPDX-License-Identifier: AGPL-3.0-or-later
+
 import { h } from 'preact';
 import { Link } from 'preact-router/match';
 import style from './style.module.css';
