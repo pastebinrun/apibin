@@ -1,3 +1,10 @@
+# SPDX-FileCopyrightText: 2017 Preact CLI Templates
+# SPDX-FileCopyrightText: 2023 Konrad Borowski <konrad@borowski.pw>
+#
+# SPDX-License-Identifier: AGPL-3.0-or-later
+# SPDX-License-Identifier: MIT
+
 node_modules
 /build
 /*.log
+size-plugin.json

@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2017 Preact CLI Templates
+
+SPDX-License-Identifier: MIT
+-->
+
 # apibin
 
 ## CLI Commands
