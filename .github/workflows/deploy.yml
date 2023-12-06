@@ -13,7 +13,7 @@ jobs:
     concurrency: production
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - run: npm ci
       - run: npx preact build --no-prerender
       - uses: JamesIves/github-pages-deploy-action@v4.3.3
